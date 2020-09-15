@@ -8,4 +8,4 @@ a text that can be deleted 1
 
 replacing the deleted line
 
-Adding another line
+deleting and adding another line
