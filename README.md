@@ -7,3 +7,5 @@ Im from Sri Lanka and currently residing in Canada to study SQATE proggram in Co
 a text that can be deleted 1
 
 replacing the deleted line
+
+Adding another line
